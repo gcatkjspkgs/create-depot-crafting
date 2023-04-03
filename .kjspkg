@@ -1,6 +1,6 @@
 {
     "author": "Eldog",
-    "description": "Craft items by manually combining them on a create depot. Requires Create and FabricAPI.",
+    "description": "Craft items by manually combining them on a create depot. Requires Create and FabricAPI. For the forge version, check out create-depot-crafting-forge",
     
     "versions": [8],
     "modloaders": ["fabric"],
