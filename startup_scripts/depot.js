@@ -28,3 +28,12 @@ function depot_application (event, output, inputInHand, inputOnDepot, isAssisted
         }
     }
 }
+
+onEvent("loaded", e => {
+    global.recipes = {
+        create: {
+            manual_depot_application: depot_application
+        }
+    }
+    global.recipes.createManualDepotApplication = global.recipes.create.manual_depot_application
+})
