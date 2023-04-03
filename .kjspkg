@@ -1,6 +1,6 @@
 {
     "author": "Eldog",
-    "description": "Combine Items on a Create Depot. Requires Create and FabricAPI.",
+    "description": "Combine Items on a Create Depot. Requires Create and FabricAPI. For the forge port, checkout create-depot-crafting-forge!",
     
     "versions": [8],
     "modloaders": ["fabric"],
