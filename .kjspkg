@@ -1,9 +1,9 @@
 {
-    "author": "squoshi",
-    "description": "A forge port of the create-depot-crafting package. Craft items by manually combining them on a create depot. Requires Create.",
+    "author": "Eldog",
+    "description": "Combine Items on a Create Depot. Requires Create and FabricAPI.",
     
     "versions": [8],
-    "modloaders": ["forge"],
+    "modloaders": ["fabric"],
     "dependencies": [],
     "incompatibilities": []
 }
