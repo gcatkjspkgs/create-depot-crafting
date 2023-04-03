@@ -1,7 +1,5 @@
 # Create depot crafting for KubeJS
 
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
-
 A library that allows you to add custom recipes that use the create depot.
 
 ## Example
