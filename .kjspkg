@@ -1,0 +1,9 @@
+{
+    "author": "Eldog",
+    "description": "Combine Items on a Create Depot. Requires Create and FabricAPI.",
+    
+    "versions": [8],
+    "modloaders": ["fabric"],
+    "dependencies": [],
+    "incompatibilities": []
+}
