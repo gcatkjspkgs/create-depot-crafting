@@ -18,4 +18,4 @@ onEvent('block.right_click', event => {
 
 ## Showcase
 
-![showcase](https://cdn.discordapp.com/attachments/1050127905822355467/1050127906220810271/example.gif)
+![showcase](https://i.ibb.co/d2qYbp2/example.gif)
