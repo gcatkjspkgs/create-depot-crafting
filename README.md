@@ -18,4 +18,4 @@ onEvent('block.right_click', event => {
 
 ## Showcase
 
-![showcase](https://i.ibb.co/d2qYbp2/example.gif)
+![showcase](https://i.ibb.co/BnYPVqW/example-min.gif)
