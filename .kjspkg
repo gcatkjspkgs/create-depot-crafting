@@ -1,6 +1,6 @@
 {
     "author": "squoshi",
-    "description": "A forge port of the create-depot-crafting package. Craft items by manually combining them on a create depot. Requires Create.",
+    "description": "A forge port of the create-depot-crafting package. Craft items by manually combining them on a create depot. Requires Create. Docs: https://github.com/gcatkjspkgs/create-depot-crafting/blob/forge/README.md",
     
     "versions": [8],
     "modloaders": ["forge"],
