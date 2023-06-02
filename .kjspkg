@@ -1,9 +1,9 @@
 {
     "author": "Eldog",
-    "description": "Combine Items on a Create Depot. Requires Create and FabricAPI. For the forge port, checkout create-depot-crafting-forge! Docs: https://github.com/gcatkjspkgs/create-depot-crafting/blob/fabric/README.md",
+    "description": "Combine Items on a Create Depot. For the forge port, checkout create-depot-crafting-forge! Docs: https://github.com/gcatkjspkgs/create-depot-crafting/blob/fabric/README.md",
     
     "versions": [8],
     "modloaders": ["fabric"],
-    "dependencies": [],
+    "dependencies": ["mod:create", "mod:fabric-api"],
     "incompatibilities": []
 }
